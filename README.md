@@ -77,7 +77,7 @@ python logistic_regression.py
 
 ## 📈 Results
 
-* **Accuracy:** \~XX% (depends on dataset)
+* **Accuracy:** 0.89
 * Confusion Matrix and ROC curve are plotted for better insights.
 
 Example confusion matrix:
@@ -87,7 +87,3 @@ Example confusion matrix:
 | **Actual 0** | TN          | FP          |
 | **Actual 1** | FN          | TP          |
 
----
-
-
-👉 Do you want me to also create a **`requirements.txt`** and a **sample folder structure** for this repo so you can directly push it to GitHub?
