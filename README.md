@@ -77,7 +77,7 @@ python logistic_regression.py
 
 ## 📈 Results
 
-* **Accuracy:** 0.89
+* **Accuracy:** ~/0.89%
 * Confusion Matrix and ROC curve are plotted for better insights.
 
 Example confusion matrix:
